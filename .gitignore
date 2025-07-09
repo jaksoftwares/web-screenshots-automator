@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Output screenshots
+images/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Optional: OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: environment or auth secrets (if added later)
+.env
